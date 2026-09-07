@@ -6,5 +6,6 @@
 \contentsline {chapter}{Corpos}{45}{}%
 \contentsline {chapter}{Geografias}{65}{}%
 \contentsline {chapter}{Lugares}{79}{}%
-\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{95}{}%
+\contentsline {part}{Apêndice}{95}{}%
+\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{97}{}%
 \babel@toc {brazilian}{}\relax 

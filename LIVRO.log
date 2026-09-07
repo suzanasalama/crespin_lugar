@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  7 SEP 2026 18:31
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  7 SEP 2026 19:15
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1357,7 +1357,7 @@ ript=latn;language=dflt;+tlig;+onum;"!
 [52]
 
 [53]
-Underfull \hbox (badness 5064) in paragraph at lines 1600--1605
+Underfull \hbox (badness 5064) in paragraph at lines 1615--1620
 \TU/MinionPro(0)/m/n/10.95 A in-cor-po-ra-ção e a con-so-li-da-ção de tra-
 ços identitários-
  []
@@ -1377,7 +1377,7 @@ Underfull \hbox (badness 5064) in paragraph at lines 1600--1605
 [59]
 
 [60]
-Underfull \hbox (badness 8151) in paragraph at lines 1842--1842
+Underfull \hbox (badness 8151) in paragraph at lines 1857--1857
 []\TU/MinionPro(0)/m/n/9 . []\TU/MinionPro(0)/m/it/9 Imago mundi \TU/M
 inionPro(0)/m/n/9 é um termo do la-tim que re-pre-senta a ``ima-
  []
@@ -1441,7 +1441,7 @@ inionPro(0)/m/n/9 é um termo do la-tim que re-pre-senta a ``ima-
 [86]
 
 [87]
-Underfull \hbox (badness 5607) in paragraph at lines 2755--2764
+Underfull \hbox (badness 5607) in paragraph at lines 2770--2779
 []\TU/MinionPro(0)/m/n/10.95 Os mo-vi-men-tos apro-pri-a-ti-vos da con-di-ção di-as-p
 ó-rica
  []
@@ -1468,9 +1468,17 @@ Underfull \hbox (badness 5607) in paragraph at lines 2755--2764
 
 [96]
 
-[97]
+[97
 
-[98]) (./2-creditos.tex
+]
+
+[98]
+
+[99]
+
+[100])
+
+[101] (./2-creditos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
@@ -1486,8 +1494,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--28
  []
 
 
-
-[99]
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
@@ -1524,53 +1530,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
 )
 
-[100] (./Y-publicidade.tex
-
-[101]
-
-[102]
+[102] (./Z-colofon.tex
 
 [103]
-Overfull \hbox (4.51628pt too wide) in paragraph at lines 126--127
-[]\TU/MinionPro(0)/m/it/12 Nas-ci-dos na es-cra-vi-dão: de-po-i-men-tos norte-a
-mericanos\TU/MinionPro(0)/m/n/12 ,
- []
-
-
-
-[104]
-Overfull \hbox (19.64857pt too wide) in paragraph at lines 141--142
-[]\TU/MinionPro(0)/m/it/12 O pe-queno Za-ca-rias, cha-mado Ci-ná-brio\TU/Minio
-nPro(0)/m/n/12 , \TU/MinionPro(0)/m/sc/12 ...\TU/MinionPro(0)/m/n/12 ,H
-offmann 
- []
-
-
-
-[105]
-
-[106]
-
-[107]
-Overfull \hbox (5.49478pt too wide) in paragraph at lines 290--291
-[]\TU/MinionPro(0)/m/it/12 A so-ci-e-dade de con-trole\TU/MinionPro(0)/m/n/12 , J.Souza; R.Avelino; S.Amadeu
- []
-
-
-Underfull \hbox (badness 2818) in paragraph at lines 292--293
-[]\TU/MinionPro(0)/m/it/12 Ati-vismo di-gi-tal hoje\TU/MinionPro(0)/m/n/12 , R.S
-egurado; C.Penteado;
- []
-
-
-
-[108]
-
-[109])
-
-[110] (./Z-colofon.tex
-
-[111]
 
 Package fontspec Info: 
 (fontspec)             Font family 'MinionPro(1)' created for font 'Minion
@@ -1603,7 +1565,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 21.
 ))
 
-[112]
+[104]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1635,16 +1597,15 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 15381 strings out of 475506
+ 15349 strings out of 475506
  125061,1144653 words of node,token memory allocated
- 4610 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 1 local_par, 265 glue, 5 kern, 1 penalty, 3 glyph, 
-538 attribute, 185 glue_spec, 270 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:2,2:2021,3:300,4:143,5:2881,6:122,7:8110,8:3,9:631,10:29,11:87
-0
- 37992 multiletter control sequences out of 65536+600000
- 134 fonts using 23918679 bytes
- 85i,16n,99p,1001b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 4593 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 1 local_par, 265 glue, 4 kern, 1 penalty, 3 glyph, 
+534 attribute, 185 glue_spec, 268 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:2,2:689,3:171,4:71,5:3371,6:43,7:8812,8:3,9:598,10:29,11:939
+ 37965 multiletter control sequences out of 65536+600000
+ 130 fonts using 23099767 bytes
+ 85i,16n,99p,1001b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro
 -Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></System/Library/Fo
@@ -1653,10 +1614,10 @@ otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2025/t
 exmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2025/
 texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2025
 /texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (112 pages, 447013 bytes).
+Output written on LIVRO.pdf (104 pages, 420024 bytes).
 
-PDF statistics: 415 PDF objects out of 1000 (max. 8388607)
- 275 compressed objects within 3 object streams
+PDF statistics: 390 PDF objects out of 1000 (max. 8388607)
+ 258 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
