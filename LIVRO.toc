@@ -1,0 +1,10 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Nota da autora}{5}{}%
+\contentsline {part}{A diáspora judaica e o lugar}{7}{}%
+\contentsline {chapter}{Fagulhas}{9}{}%
+\contentsline {chapter}{Páginas}{25}{}%
+\contentsline {chapter}{Corpos}{45}{}%
+\contentsline {chapter}{Geografias}{65}{}%
+\contentsline {chapter}{Lugares}{79}{}%
+\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{95}{}%
+\babel@toc {brazilian}{}\relax 
