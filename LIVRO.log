@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  7 SEP 2026 19:15
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.11)  7 SEP 2026 21:10
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1159,51 +1159,60 @@ tex)))
 
 [2] (./LIVRO.toc)
 
-[3] (./AUTORA.tex
+[3] (./INTRODUCAO.tex
 
 [4
 
-
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <10.95> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 27.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-))
-(./TEXTO.tex
-
-[5]
-
-[6]
-
-[7
-
-]
-
-[8]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
-
-
-[9
-
-]
-LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
- line 80.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/adforn/uornementsadf.fd
-File: uornements.fd v1.2 2024/09/29 font definitions for U/OrnementsADF.
 )
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+
+Underfull \hbox (badness 1117) in paragraph at lines 38--39
+[]\TU/MinionPro(0)/m/n/10.95 Busca-se aqui com-pre-en-der que as \TU/MinionPro(
+0)/m/it/10.95 pers-pec-ti-vas judaico-
+ []
+
+
+
+[5
+
+]
+
+[6]) (./TEXTO.tex
+
+[7]
+
+[8
+
+]
+
+[9]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 11.
+
 
 [10]
 
-[11]
+[11
+
+]
+LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
+ line 88.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/adforn/uornementsadf.fd
+File: uornements.fd v1.2 2024/09/29 font definitions for U/OrnementsADF.
+)
 
 [12]
 
@@ -1229,11 +1238,11 @@ File: uornements.fd v1.2 2024/09/29 font definitions for U/OrnementsADF.
 
 [23]
 
-[24
+[24]
+
+[25
 
 ]
-
-[25]
 
 [26]
 
@@ -1243,9 +1252,7 @@ File: uornements.fd v1.2 2024/09/29 font definitions for U/OrnementsADF.
 
 [29]
 
-[30]
-
-[31
+[30
 Missing character: There is no מ (U+05DE) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 Missing character: There is no י (U+05D9) in font "name:Minion Pro:mode=node;sc
@@ -1262,31 +1269,33 @@ Missing character: There is no ה (U+05D4) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 ]
 
-[32]
+[31]
+
+[32
+Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
+ript=latn;language=dflt;+tlig;+onum;"!
+Missing character: There is no מ (U+05DE) in font "name:Minion Pro:mode=node;sc
+ript=latn;language=dflt;+tlig;+onum;"!
+Missing character: There is no ת (U+05EA) in font "name:Minion Pro:mode=node;sc
+ript=latn;language=dflt;+tlig;+onum;"!
+Missing character: There is no מ (U+05DE) in font "name:Minion Pro:mode=node;sc
+ript=latn;language=dflt;+tlig;+onum;"!
+Missing character: There is no ת (U+05EA) in font "name:Minion Pro:mode=node;sc
+ript=latn;language=dflt;+tlig;+onum;"!
+]
 
 [33
 Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
-Missing character: There is no מ (U+05DE) in font "name:Minion Pro:mode=node;sc
-ript=latn;language=dflt;+tlig;+onum;"!
 Missing character: There is no ת (U+05EA) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
-Missing character: There is no מ (U+05DE) in font "name:Minion Pro:mode=node;sc
+Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 Missing character: There is no ת (U+05EA) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 ]
 
-[34
-Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
-ript=latn;language=dflt;+tlig;+onum;"!
-Missing character: There is no ת (U+05EA) in font "name:Minion Pro:mode=node;sc
-ript=latn;language=dflt;+tlig;+onum;"!
-Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
-ript=latn;language=dflt;+tlig;+onum;"!
-Missing character: There is no ת (U+05EA) in font "name:Minion Pro:mode=node;sc
-ript=latn;language=dflt;+tlig;+onum;"!
-]
+[34]
 
 [35]
 
@@ -1300,9 +1309,7 @@ ript=latn;language=dflt;+tlig;+onum;"!
 
 [40]
 
-[41]
-
-[42
+[41
 Missing character: There is no ב (U+05D1) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 Missing character: There is no ס (U+05E1) in font "name:Minion Pro:mode=node;sc
@@ -1311,7 +1318,7 @@ Missing character: There is no ד (U+05D3) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 ]
 
-[43
+[42
 Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 Missing character: There is no א (U+05D0) in font "name:Minion Pro:mode=node;sc
@@ -1336,11 +1343,13 @@ Missing character: There is no ר (U+05E8) in font "name:Minion Pro:mode=node;sc
 ript=latn;language=dflt;+tlig;+onum;"!
 ]
 
-[44]
+[43]
 
-[45
+[44
 
 ]
+
+[45]
 
 [46]
 
@@ -1357,7 +1366,7 @@ ript=latn;language=dflt;+tlig;+onum;"!
 [52]
 
 [53]
-Underfull \hbox (badness 5064) in paragraph at lines 1615--1620
+Underfull \hbox (badness 5064) in paragraph at lines 1611--1616
 \TU/MinionPro(0)/m/n/10.95 A in-cor-po-ra-ção e a con-so-li-da-ção de tra-
 ços identitários-
  []
@@ -1377,8 +1386,8 @@ Underfull \hbox (badness 5064) in paragraph at lines 1615--1620
 [59]
 
 [60]
-Underfull \hbox (badness 8151) in paragraph at lines 1857--1857
-[]\TU/MinionPro(0)/m/n/9 . []\TU/MinionPro(0)/m/it/9 Imago mundi \TU/M
+Underfull \hbox (badness 8151) in paragraph at lines 1853--1853
+[]\TU/MinionPro(0)/m/n/9 . []\TU/MinionPro(0)/m/it/9 Imago mundi \TU/M
 inionPro(0)/m/n/9 é um termo do la-tim que re-pre-senta a ``ima-
  []
 
@@ -1441,7 +1450,7 @@ inionPro(0)/m/n/9 é um termo do la-tim que re-pre-senta a ``ima-
 [86]
 
 [87]
-Underfull \hbox (badness 5607) in paragraph at lines 2770--2779
+Underfull \hbox (badness 5607) in paragraph at lines 2766--2775
 []\TU/MinionPro(0)/m/n/10.95 Os mo-vi-men-tos apro-pri-a-ti-vos da con-di-ção di-as-p
 ó-rica
  []
@@ -1466,11 +1475,11 @@ Underfull \hbox (badness 5607) in paragraph at lines 2770--2779
 
 [95]
 
-[96]
-
-[97
+[96
 
 ]
+
+[97]
 
 [98]
 
@@ -1561,8 +1570,6 @@ Package fontspec Info:
 (fontspec)             <->"name:Minion
 (fontspec)             Pro/BI:mode=node;script=latn;language=dflt;+smcp;"
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 21.
 ))
 
 [104]
@@ -1597,15 +1604,15 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 15349 strings out of 475506
+ 15362 strings out of 475506
  125061,1144653 words of node,token memory allocated
- 4593 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 1 local_par, 265 glue, 4 kern, 1 penalty, 3 glyph, 
-534 attribute, 185 glue_spec, 268 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:2,2:689,3:171,4:71,5:3371,6:43,7:8812,8:3,9:598,10:29,11:939
- 37965 multiletter control sequences out of 65536+600000
+ 4567 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 1 local_par, 263 glue, 4 kern, 1 penalty, 3 glyph, 
+530 attribute, 185 glue_spec, 266 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:2,2:689,3:171,4:83,5:3097,6:57,7:8110,8:3,9:577,10:29,11:870
+ 37978 multiletter control sequences out of 65536+600000
  130 fonts using 23099767 bytes
- 85i,16n,99p,1001b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,16n,99p,2007b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro
 -Regular.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></System/Library/Fo
@@ -1613,11 +1620,12 @@ nts/Supplemental/Times New Roman.ttf></Users/suzana/Library/Fonts/Formular-Bold.
 otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2025/t
 exmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2025/
 texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (104 pages, 420024 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (104 pages, 426713 bytes).
 
-PDF statistics: 390 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
+PDF statistics: 394 PDF objects out of 1000 (max. 8388607)
+ 261 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

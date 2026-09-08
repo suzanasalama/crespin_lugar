@@ -1,7 +1,30 @@
 % edlab-extra.sty
 
-\newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
+% Didascálias
+\def\@endbooknot{\vspace{.60\textheight}\pagebreak}%
+\let\@endbook\@endbooknot
+\def\@endpartnot{\vspace{.60\textheight}\pagebreak}%
+\let\@endpart\@endpartnot
+\newenvironment{argumento}{%                % Didascálias antes de \part
+                \mbox{}\vfill%
+                \thispagestyle{empty}
+                \parindent0pt\footnotesize\textbf{\textsc{nota introdutória}}\itshape\quad}{\thispagestyle{empty}\par}
+\newenvironment{didascalia}{%               % Resumos de abertura de capítulo
+            \footnotesize\textbf{Comentário}\quad\itshape
+            \raggedright
+            \parindent0pt}{\par\medskip} 
 
+\newenvironment{didascalia2}{%               
+    \pagebreak
+    \mbox{}
+    \vfill
+    \par\noindent
+    \footnotesize\textbf{Comentário}\quad\itshape
+    \raggedright
+    \parindent0pt
+}{\par\medskip}
+
+\newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
 
 % url.sty
 % You can switch the style of printing using “\urlstyle{xx}”, where “xx” can be

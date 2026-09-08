@@ -1,7 +1,7 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Nota da autora}{5}{}%
-\contentsline {part}{A diáspora judaica e o lugar}{7}{}%
-\contentsline {chapter}{Fagulhas}{9}{}%
+\contentsline {chapter}{Introdução, \textit {por Tamara Crespin}}{5}{}%
+\contentsline {part}{A diáspora judaica e o lugar}{9}{}%
+\contentsline {chapter}{Fagulhas}{11}{}%
 \contentsline {chapter}{Páginas}{25}{}%
 \contentsline {chapter}{Corpos}{45}{}%
 \contentsline {chapter}{Geografias}{65}{}%
