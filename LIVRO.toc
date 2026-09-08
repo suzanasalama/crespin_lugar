@@ -1,11 +1,14 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Introdução, \textit {por Tamara Crespin}}{5}{}%
-\contentsline {part}{A diáspora judaica e o lugar}{9}{}%
-\contentsline {chapter}{Fagulhas}{11}{}%
-\contentsline {chapter}{Páginas}{25}{}%
-\contentsline {chapter}{Corpos}{45}{}%
-\contentsline {chapter}{Geografias}{65}{}%
-\contentsline {chapter}{Lugares}{79}{}%
-\contentsline {part}{Apêndice}{95}{}%
-\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{97}{}%
+\contentsline {chapter}{Apresentação, \textit {por Tamara Crespin}}{7}{}%
+\contentsline {part}{A diáspora judaica e o lugar}{11}{}%
+\contentsline {chapter}{Novo capítulo}{13}{}%
+\contentsline {chapter}{Páginas}{23}{}%
+\contentsline {chapter}{Corpos}{35}{}%
+\contentsline {chapter}{Novo capítulo}{43}{}%
+\contentsline {chapter}{Geografias}{57}{}%
+\contentsline {chapter}{Lugares}{73}{}%
+\contentsline {chapter}{Novo capítulo}{81}{}%
+\contentsline {chapter}{Epílogo}{89}{}%
+\contentsline {part}{Apêndice}{101}{}%
+\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{103}{}%
 \babel@toc {brazilian}{}\relax 
