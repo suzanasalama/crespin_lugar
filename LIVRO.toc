@@ -1,14 +1,16 @@
 \thispagestyle {empty}
 \contentsline {chapter}{Apresentação, \textit {por Tamara Crespin}}{7}{}%
 \contentsline {part}{A diáspora judaica e o lugar}{11}{}%
-\contentsline {chapter}{Novo capítulo}{13}{}%
-\contentsline {chapter}{Páginas}{23}{}%
-\contentsline {chapter}{Corpos}{35}{}%
-\contentsline {chapter}{Novo capítulo}{43}{}%
-\contentsline {chapter}{Geografias}{57}{}%
-\contentsline {chapter}{Lugares}{73}{}%
-\contentsline {chapter}{Novo capítulo}{81}{}%
-\contentsline {chapter}{Epílogo}{89}{}%
-\contentsline {part}{Apêndice}{101}{}%
-\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{103}{}%
+\contentsline {chapter}{Páginas}{13}{}%
+\contentsline {section}{Entre o céu e a terra}{20}{}%
+\contentsline {chapter}{Novo capítulo}{25}{}%
+\contentsline {chapter}{Corpos}{33}{}%
+\contentsline {section}{Dar título}{37}{}%
+\contentsline {chapter}{Novo capítulo}{41}{}%
+\contentsline {chapter}{Geografias}{55}{}%
+\contentsline {chapter}{Lugares}{71}{}%
+\contentsline {chapter}{Novo capítulo}{79}{}%
+\contentsline {chapter}{Epílogo}{87}{}%
+\contentsline {part}{Apêndice}{99}{}%
+\contentsline {chapter}{Posfácio, \textit {por Paulina Cho}}{101}{}%
 \babel@toc {brazilian}{}\relax 
